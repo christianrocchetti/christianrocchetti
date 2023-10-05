@@ -11,4 +11,4 @@ I am Christian a back-end developer.
 
 ## 📫 Socials:
 
-Connect with me on [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/christian-rocchetti/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/christian-rocchetti/).
